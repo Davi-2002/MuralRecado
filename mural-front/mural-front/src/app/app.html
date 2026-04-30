@@ -1,0 +1,8 @@
+@for(recado of listaRecados(); track recado.id)
+{
+  <h1>{{recado.titulo}}</h1>
+  <p>{{recado.conteudo}}</p>
+  <hr>
+}
+
+<button (click)="salvarRecado()">adicionar</button>

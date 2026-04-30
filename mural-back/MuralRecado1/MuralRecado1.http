@@ -1,0 +1,6 @@
+@MuralRecado1_HostAddress = http://localhost:5003
+
+GET {{MuralRecado1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

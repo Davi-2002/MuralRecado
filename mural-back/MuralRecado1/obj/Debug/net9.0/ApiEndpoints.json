@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "MuralRecado1.Controllers.RecadosController",
+    "Method": "GetRecados",
+    "RelativePath": "api/Recados",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MuralRecado1.Controllers.RecadosController",
+    "Method": "PostRecados",
+    "RelativePath": "api/Recados",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "novoRecado",
+        "Type": "MuralRecado1.Recado",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

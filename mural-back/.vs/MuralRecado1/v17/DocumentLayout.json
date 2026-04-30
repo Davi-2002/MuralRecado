@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Davi\\source\\repos\\MuralRecado1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E93FE6D-A00E-4F27-AFC9-5A915FE6B6C8}|MuralRecado1\\MuralRecado1.csproj|c:\\users\\davi\\source\\repos\\muralrecado1\\muralrecado1\\controllers\\recadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E93FE6D-A00E-4F27-AFC9-5A915FE6B6C8}|MuralRecado1\\MuralRecado1.csproj|solutionrelative:muralrecado1\\controllers\\recadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E93FE6D-A00E-4F27-AFC9-5A915FE6B6C8}|MuralRecado1\\MuralRecado1.csproj|c:\\users\\davi\\source\\repos\\muralrecado1\\muralrecado1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E93FE6D-A00E-4F27-AFC9-5A915FE6B6C8}|MuralRecado1\\MuralRecado1.csproj|solutionrelative:muralrecado1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E93FE6D-A00E-4F27-AFC9-5A915FE6B6C8}|MuralRecado1\\MuralRecado1.csproj|c:\\users\\davi\\source\\repos\\muralrecado1\\muralrecado1\\recado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E93FE6D-A00E-4F27-AFC9-5A915FE6B6C8}|MuralRecado1\\MuralRecado1.csproj|solutionrelative:muralrecado1\\recado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Davi\\source\\repos\\MuralRecado1\\MuralRecado1\\Program.cs",
+              "RelativeDocumentMoniker": "MuralRecado1\\Program.cs",
+              "ToolTip": "C:\\Users\\Davi\\source\\repos\\MuralRecado1\\MuralRecado1\\Program.cs",
+              "RelativeToolTip": "MuralRecado1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T13:57:24.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecadosController.cs",
+              "DocumentMoniker": "C:\\Users\\Davi\\source\\repos\\MuralRecado1\\MuralRecado1\\Controllers\\RecadosController.cs",
+              "RelativeDocumentMoniker": "MuralRecado1\\Controllers\\RecadosController.cs",
+              "ToolTip": "C:\\Users\\Davi\\source\\repos\\MuralRecado1\\MuralRecado1\\Controllers\\RecadosController.cs",
+              "RelativeToolTip": "MuralRecado1\\Controllers\\RecadosController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T18:14:58.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Recado.cs",
+              "DocumentMoniker": "C:\\Users\\Davi\\source\\repos\\MuralRecado1\\MuralRecado1\\Recado.cs",
+              "RelativeDocumentMoniker": "MuralRecado1\\Recado.cs",
+              "ToolTip": "C:\\Users\\Davi\\source\\repos\\MuralRecado1\\MuralRecado1\\Recado.cs",
+              "RelativeToolTip": "MuralRecado1\\Recado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T16:20:02.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
